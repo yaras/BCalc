@@ -1,0 +1,11 @@
+.env
+__pycache__
+.coverage
+cover
+config_*.json
+temp*.db
+*.db
+*.hc
+BCalc.egg-info
+build
+dist
