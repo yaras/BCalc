@@ -3,6 +3,8 @@ BCalc
 
 BCalc (Business Calculator) is a script for calculating salary and taxes for wage in Poland.
 
+[![Build Status](https://travis-ci.org/yaras/BCalc.svg?branch=master)](https://travis-ci.org/yaras/BCalc)
+
 Wymagania
 ---
 
