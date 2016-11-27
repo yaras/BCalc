@@ -20,9 +20,10 @@ pip install https://github.com/yaras/BCalc/releases/download/v0.1.0/BCalc-0.1.0-
 Uruchomienie
 ---
 
-```
-pensja
-```
+Po instalacji *wheel* dostępne są dwa polecenia:
+
+* `pensja`
+* `chorobowe`
 
 Opis składowych komponentów
 ---
