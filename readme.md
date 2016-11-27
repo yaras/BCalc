@@ -65,7 +65,7 @@ Uruchomienie testów
 ---
 
 ```
-nosetests --with-coverage --cover-html
+nosetests -v bcalc
 ```
 
 Budowanie wheel
